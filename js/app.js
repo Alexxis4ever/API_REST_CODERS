@@ -1,5 +1,4 @@
 /* 3. Importar a los coders */
-
 import { getCoders } from "../apiConnection/API.js";
 
 /* 1. funcion iife se autoejecuta sin invocarse,
